@@ -6,7 +6,7 @@ class Dog
     @breed = breed
   end
   
-  puts "My new dog is named #{name}, and it is a #{breed}."
+  puts "My new dog is named #{@name}, and it is a #{@breed}."
   
 end
 
