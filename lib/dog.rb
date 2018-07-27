@@ -9,3 +9,5 @@ class Dog
   puts "My new dog is named #{name}, and it is a #{breed}."
   
 end
+
+buddy = Dog.new("Buddy")
