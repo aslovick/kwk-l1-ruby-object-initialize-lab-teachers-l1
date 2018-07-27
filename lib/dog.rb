@@ -5,4 +5,7 @@ class Dog
     @name = name
     @breed = breed
   end
+  
+  puts "My new dog is named #{name}, and it is a #{breed}."
+  
 end
